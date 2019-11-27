@@ -1,0 +1,19 @@
+{
+    "name": "zlatov/console_tools",
+    "description": "Консольный вывод и другие инструменты.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zlatov",
+            "email": "zlatov@ya.ru"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Zlatov\\ConsoleTools\\": "src/"
+        }
+    }
+}
